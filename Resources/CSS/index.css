@@ -1,7 +1,7 @@
 h1 {
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
-    font-color: blue;
+    color: 'white';
+    font-color: 'blue';
 }
 body {
     background-color: white;
